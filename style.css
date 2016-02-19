@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+#u0, #u1 {
+  display: inline-block;
+  width: 50%;
+}
+img {
+  width: 100%;
+}
